@@ -1,0 +1,11 @@
+{
+  "name": "osplugin",
+  "version": "1.0.0",
+  "description": "Plugin for creation plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grv",
+  "license": "ISC"
+}
